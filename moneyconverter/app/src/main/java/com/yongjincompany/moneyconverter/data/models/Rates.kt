@@ -1,4 +1,4 @@
-package com.yongjincompany.moneyconverter
+package com.yongjincompany.moneyconverter.data.models
 
 data class Rates(
     val AED: Double,
